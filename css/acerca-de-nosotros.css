@@ -10,3 +10,8 @@ body{
     display: flex;
     justify-content: center;
 }
+@media screen and (min-width: 768px) {
+    #primera-lista {
+        display: none;
+    }
+}
